@@ -1,0 +1,5 @@
+AMT21.c:9:6:AMT21_initialize	24	static
+AMT21.c:22:6:AMT21_read_value	16	static
+AMT21.c:38:6:AMT21_set_zero	24	static
+AMT21.c:52:6:AMT21_reset	24	static
+AMT21.c:66:19:AMT21_check_value	24	static

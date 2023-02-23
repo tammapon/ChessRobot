@@ -1,0 +1,3 @@
+Motor.c:10:6:Motor_Initialize	24	static
+Motor.c:22:6:Drive_Motor	16	static
+Motor.c:42:6:Motor_Stop_All	4	static

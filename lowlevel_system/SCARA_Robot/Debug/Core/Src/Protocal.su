@@ -1,0 +1,3 @@
+Protocal.c:15:6:CheckSum	24	static
+Protocal.c:25:6:clear_buffer	24	static
+Protocal.c:31:6:package_state	48	dynamic
