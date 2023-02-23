@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>image-klui/contact.png</file>
+    <file>image-klui/keyboard.png</file>
+    <file>image-klui/bB.png</file>
+    <file>image-klui/bK.png</file>
+    <file>image-klui/bN.png</file>
+    <file>image-klui/bp.png</file>
+    <file>image-klui/bQ.png</file>
+    <file>image-klui/bR.png</file>
+    <file>image-klui/wB.png</file>
+    <file>image-klui/wK.png</file>
+    <file>image-klui/wN.png</file>
+    <file>image-klui/wp.png</file>
+    <file>image-klui/wQ.png</file>
+    <file>image-klui/wR.png</file>
+    <file>image-klui/space.png</file>
+    <file>image-klui/board.png</file>
+    <file>image-klui/robot.png</file>
+    <file>image-klui/chess_board.png</file>
+  </qresource>
+</RCC>
